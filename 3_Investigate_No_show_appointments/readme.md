@@ -8,3 +8,7 @@ This dataset collects information from 100k medical appointments in Brazil and i
     ‘Neighborhood’ indicates the location of the hospital.
     ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
     Be careful about the encoding of the last column: it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
+
+## Objective
+
+What factors are important for us to know in order to predict if a patient will show up for their scheduled appointment?
